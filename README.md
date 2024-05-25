@@ -1,2 +1,1 @@
-# QAP-1-Files-LO
-QAP1-Files-LO
+#QAP 1 Files (Front-End Development)
