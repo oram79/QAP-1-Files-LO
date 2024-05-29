@@ -1,1 +1,1 @@
-# QAP-1 Files JavaScript (Semester 2)
+# QAP-1 Files Front-End Development (Semester 2)
